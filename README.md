@@ -14,15 +14,11 @@ Sessions I attended
 - 12:20, [Refspec](refspec.md) by Mateusz Grzechociński, Stand A
 - 13:10, [Git internals](internals.md) by Mateusz Harasymczuk, Stand B
 - 14:50, [Fish shell](fish.md) by Mateusz Grzechociński, Stand A
+- 15:40, [Rescue stash](stash.md) by Kamil Trzciński, Stand C
 
 
 Sessions I'd like to attend
 ---------------------------
-
-### 15:40
-
-- Rescue stash (Kamil Trzciński), Stand C
-
 
 ### 16:30
 
