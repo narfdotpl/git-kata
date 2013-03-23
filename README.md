@@ -1,8 +1,8 @@
 git kata
 ========
 
-Notes regarding [git kata][] workshop that took place in Warsaw,
-Poland on 2013-03-23.
+Notes from [git kata][] workshop that took place in Warsaw, Poland on
+2013-03-23.
 
   [git kata]: http://gitkata.pl/
 
@@ -16,11 +16,4 @@ Sessions I attended
 - 14:50, [Fish shell](fish.md) by Mateusz Grzechociński, Stand A
 - 15:40, [Rescue stash](stash.md) by Kamil Trzciński, Stand C
 - 16:30, [Undoing changes](undo.md) by Mateusz Grzechociński, Polidea
-
-
-Sessions I'd like to attend
----------------------------
-
-### 17:20
-
-- Git rerere (Mateusz Grzechociński), Macoscope
+- 17:20, [Git rerere](rerere.md) by Mateusz Grzechociński, Macoscope
