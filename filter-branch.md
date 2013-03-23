@@ -1,7 +1,7 @@
 filter-branch
 =============
 
-11:30, Stand B
+11:30, Grzegorz Kubiak, Stand B
 
 I was sitting too far away from the mentor and didn't hear a word. :/
 I gave up after ~20 minutes.
