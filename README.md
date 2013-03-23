@@ -1,19 +1,22 @@
 git kata
 ========
 
-Notes regarding [git kata][] workshop that will take place in Warsaw,
+Notes regarding [git kata][] workshop that took place in Warsaw,
 Poland on 2013-03-23.
 
   [git kata]: http://gitkata.pl/
 
 
-Sessions I'd like to attend
----------------------------
+Sessions I attended
+-------------------
 
 ### 11:30
 
-- Git filter-branch (Grzegorz Kubiak)
+- [Git filter-branch](filter-branch.md) (Grzegorz Kubiak)
 
+
+Sessions I'd like to attend
+---------------------------
 
 ### 12:20
 
