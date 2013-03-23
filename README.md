@@ -10,20 +10,12 @@ Poland on 2013-03-23.
 Sessions I attended
 -------------------
 
-### 11:30
-
-- [Git filter-branch](filter-branch.md) (Grzegorz Kubiak), Stand B
+- 11:30, [Git filter-branch](filter-branch.md) by Grzegorz Kubiak, Stand B
+- 12:20, [Refspec](refspec.md) by Mateusz Grzechociński, Stand A
 
 
 Sessions I'd like to attend
 ---------------------------
-
-### 12:20
-
-- Refspec (Mateusz Grzechociński), Stand A
-- USB workflow (Łukasz Siwiński), Stand C
-- Undoing changes (Marcin Zajączkowski), Macoscope
-
 
 ### 13:10
 
