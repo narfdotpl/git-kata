@@ -25,6 +25,6 @@ notes
 
     git push --force origin master
 
-==
+is the same as
 
     git push origin +master:master
