@@ -15,17 +15,11 @@ Sessions I attended
 - 13:10, [Git internals](internals.md) by Mateusz Harasymczuk, Stand B
 - 14:50, [Fish shell](fish.md) by Mateusz Grzechociński, Stand A
 - 15:40, [Rescue stash](stash.md) by Kamil Trzciński, Stand C
+- 16:30, [Undoing changes](undo.md) by Mateusz Grzechociński, Polidea
 
 
 Sessions I'd like to attend
 ---------------------------
-
-### 16:30
-
-- Undoing changes (Mateusz Grzechociński), Polidea
-- USB workflow (Łukasz Siwiński), Stand C
-- Patches (Kamil Trzciński), Stand A
-
 
 ### 17:20
 
