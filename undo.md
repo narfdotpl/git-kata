@@ -1,7 +1,7 @@
 undoing changes
 ===============
 
-16:30, Mateusz Grzechociński, Polidea
+16:30, Mateusz Grzechociński, Polidea Stand
 
 
 notes

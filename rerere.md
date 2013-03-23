@@ -1,7 +1,7 @@
 rerere
 ======
 
-17:20, Mateusz Grzechociński, Macoscope
+17:20, Mateusz Grzechociński, Macoscope Stand
 
 
 terminal dump
